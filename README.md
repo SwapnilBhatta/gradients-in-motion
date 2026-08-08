@@ -12,7 +12,7 @@ Animated visualizations of classic machine learning algorithms, built with [Mani
 | `poly_logistic_regression.py` | Polynomial logistic regression | A **curved** decision boundary bending around a non-linearly-separable "two moons" dataset |
 | `neural_network.py` | Small neural network (MLP) | A network diagram (weights strengthening/weakening) synced with its decision boundary bending into shape |
 
-Rendered videos for each live in [`videos/`](videos/) (or wherever you point `manim`'s output — see below).
+Rendered videos for each live in [`videos/`](videos/)
 
 ## Notes on each script
 
