@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/swapn/Desktop/New folder/media/videos/percepmanim/1080p60/partial_movie_files/TestText6/2257293077_2698397813_223132457.mp4'
