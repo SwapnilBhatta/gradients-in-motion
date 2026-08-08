@@ -1,5 +1,4 @@
 # gradients-in-motion
-# Learning, Boundaries
 
 Animated visualizations of classic machine learning algorithms, built with [Manim Community Edition](https://www.manim.community/). Each script trains a model from scratch in NumPy, then animates the training process — decision boundaries shifting, weights strengthening, loss dropping — rather than just showing a static end result.
 
