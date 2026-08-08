@@ -1,18 +1,18 @@
 # gradients-in-motion
 
-Animated visualizations of a few classic machine learning algorithms that I made with [Manim Community Edition](https://www.manim.community/). Each script trains a model from scratch in NumPy, then animates the training process rather than just showing a static end result.
+Animated visualizations of a few classic machine learning algorithms that I made with [Manim Community Edition](https://www.manim.community/). These were originally made in June-July, 2026. Each script trains a model from scratch in NumPy, then animates the training process rather than just showing a static end result.
 
 ## What's inside
 
 | Script | Algorithm | What it shows |
 |---|---|---|
-| `gradient_descent.py` | Gradient descent | A ball rolling down a 3D loss surface, paired with a matching 2D contour view |
-| `perceptron.py` | Perceptron | A linear decision boundary jumping/correcting each time it misclassifies a point |
+| `graddescmanim.py` | Gradient descent | A ball rolling down a 3D loss surface, paired with a matching 2D contour view |
+| `percepmanim.py` | Perceptron | A linear decision boundary jumping/correcting each time it misclassifies a point |
 | `logistic_regression.py` | Logistic regression | A linear boundary shifting *smoothly* every gradient step, with a probability heatmap |
 | `poly_logistic_regression.py` | Polynomial logistic regression | A **curved** decision boundary bending around a non-linearly-separable "two moons" dataset |
 | `neural_network.py` | Small neural network (MLP) | A network diagram (weights strengthening/weakening) synced with its decision boundary bending into shape |
 
-Rendered videos for each live in [`videos/`](videos/)
+Rendered videos for each live in [`videos/`](media/videos)
 
 ## Notes on each script
 
